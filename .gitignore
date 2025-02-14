@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/.creator/*
+/profiles/*
+/library/*
+/settings/*
+/temp/*
